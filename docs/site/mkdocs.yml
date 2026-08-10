@@ -1,4 +1,4 @@
-site_name: "docs"
+site_name: "Mnemosys Project"
 repo_url: https://github.com/mnemosys-project/docs
 docs_dir: docs
 strict: true
@@ -45,4 +45,4 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
+  - Where Things Stand: status.md
