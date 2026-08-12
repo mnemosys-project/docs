@@ -39,8 +39,7 @@ tool. The name is taken on PyPI, so the organization uses `mnemosys` / MNEMOS.
 | `aoede` | Reserved | Repertoire management |
 
 `melete` generates daily bass practice material: parameterized exercises
-rendered to standard notation and tablature via LilyPond, printed as one sheet
-per day.
+rendered to standard notation and tablature, printed as one sheet per day.
 
 `aoede` is the name reserved for repertoire management — acquisition, decay
 modeling, and maintenance scheduling for learned material. It is a claimed
@@ -62,8 +61,10 @@ this organization.
 
 ## Status
 
-The organization is new and bootstrapping. Its first epic covers both the
-organization bootstrap and `melete` v1; nothing has been released yet.
+The organization is new. Its first epic covers both the organization bootstrap
+and `melete` v1, and is closing. `melete` v1 is built and works; it is not
+released, and is not yet recommended for daily use because its notation
+renderer is being replaced.
 
 See [Where Things Stand](status.md) for the current state of each tool and
 links to the epic, its specification, and its plan.
