@@ -39,7 +39,8 @@ tool. The name is taken on PyPI, so the organization uses `mnemosys` / MNEMOS.
 | `aoede` | Reserved | Repertoire management |
 
 `melete` generates daily bass practice material: parameterized exercises
-rendered to standard notation and tablature, printed as one sheet per day.
+rendered as a Guitar Pro `.gp` file via alphaTab, carrying standard notation and
+tablature together as one sheet per day.
 
 `aoede` is the name reserved for repertoire management — acquisition, decay
 modeling, and maintenance scheduling for learned material. It is a claimed

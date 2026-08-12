@@ -13,7 +13,7 @@ sheets.
 `melete generate` selects a day's exercises with coverage-aware weighting
 across four families — chromatic permutations, scales, arpeggios, and interval
 studies — renders each one to standard notation and tablature, and writes a
-single printable PDF with a cover page summarizing the session. Every
+single Guitar Pro `.gp` file with a cover page summarizing the session. Every
 parameter of every pick is written to a machine-readable session log. Four
 further subcommands complete the interface: `replay` re-engraves a past
 session from its record, `show` summarizes one, and `families` and
